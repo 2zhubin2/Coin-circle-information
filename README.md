@@ -1,2 +1,3 @@
 # Coin-circle-information
 “Coin circle information”technical support
+"Coin circle information" is an app for exchanging information about virtual currency. Users can exchange information about virtual currency in the community module, and supervise the content through reporting and shielding mechanism. Users can also watch the latest quotation information of virtual currency on our platform. This platform only provides information reading, does not support trading function, hope to bring you a good experience…For any comments and suggestions, please contact us:“TenderTea” official email:huayixianke@163.com
